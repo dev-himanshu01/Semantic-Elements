@@ -7,7 +7,6 @@ HTML provides a wide range of elements that can be used to structure and style w
 
 This repository is designed to help you grasp the concept of semantic and non-semantic elements by providing practical examples and exercises.
 
-## Getting Started
 ## Usage
 
 The repository contains a collection of HTML files, each focusing on different semantic and non-semantic elements. You can open these files in a text editor to examine the code and understand the differences.
